@@ -1,0 +1,15 @@
+artifact_uri: file:///home/Shajiv_Assignment/Assignment/02_training_pipeline/scripts/mlruns/1/ab5f9bd6082f498788d289a2f3ebe38b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: ab5f9bd6082f498788d289a2f3ebe38b
+run_uuid: ab5f9bd6082f498788d289a2f3ebe38b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694576141994
+status: 1
+tags: []
+user_id: root

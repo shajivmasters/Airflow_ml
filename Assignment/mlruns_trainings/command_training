@@ -1,0 +1,1 @@
+mlflow server --backend-store-uri=sqlite:////home/Shajiv_Assignment/Assignment/02_training_pipeline/notebooks/database/lead_scoring_model_experimentation.db --default-artifact-root="/home/Shajiv_Assignment/Assignment/mlruns/" --port=6006 --host=0.0.0.0
